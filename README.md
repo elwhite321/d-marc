@@ -1,7 +1,7 @@
 Thanks to joshreve and his [repo](https://github.com/joshreve/dactyl-keyboard) for the inspiration and to start this project.
 Building off his OpenSCAD python port, I want to create a much more configurable keyboard when it comes to the
 angle of the rows, columns, and thumb clusters. Specifically I wanted to try concave columns with convex rows and thumb cluster.
-I would also like to provide the ability for more extreme tilt and tent. It seems makes too extreme adjustments to the original break to model.
+I would also like to provide the ability for more extreme tilt and tent. It seems too extreme adjustments to the original curvature break to model.
 This code is in its infancy and needs a lot of work still. Only the right hand rows and columns are implemented and break easily with different configs.
 It still needs thumb clusters, walls, internal mounts, etc.
 
